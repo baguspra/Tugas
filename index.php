@@ -4,7 +4,7 @@
 	<title>Halaman</title>
 </head>
 <body>
-	<h2>DATA MAHASISWA</h2>
+	<h2>DATA COSTUMER</h2>
 	<table border="1">
 		<tr>
 			<th>No</th>
